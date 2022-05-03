@@ -1,17 +1,3 @@
-const fs = require('fs');
-const path = require('path');
-
-const ROOT_DIR = './preview';
-
-<img src = './preview'>
-
-fs.writeFileSync(path.join(ROOT_DIR, README_FILENAME);
-
-
-
-
-
-
 
 -----------------------
 # README
