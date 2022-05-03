@@ -1,4 +1,4 @@
-<img src = 'Preview.JPG'>
+<img src = '../Preview.JPG'>
 -----------------------
 # README
 -----------------------
