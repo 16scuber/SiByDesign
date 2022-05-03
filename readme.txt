@@ -1,4 +1,11 @@
-![Preview](SiByDesign/assets/images/about/Preview.jpg)
+
+
+
+
+Sierra Cubero used this template and customized it to create her own individual portfolio, along with keeping all required licensing.
+
+
+
 -----------------------
 # README
 -----------------------
@@ -35,4 +42,3 @@ License:
 This template is under Free License - https://www.themesine.com/license/
 
 
-Sierra Cubero used this template and customized it to create her own individual portfolio, along with keeping all required licensing.
